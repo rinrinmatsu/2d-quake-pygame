@@ -1,2 +1,2 @@
 # 2d-quake-pygame
-for quick projects
+using methods similairy to what I used in previous project on roblox
